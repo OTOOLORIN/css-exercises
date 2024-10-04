@@ -31,10 +31,6 @@ ul {
   flex-shrink: 0;
 }
 
-li {
-  flex-shrink: 0;
-  display: flex;
-}
 
 a {
   font-size: 22px;
